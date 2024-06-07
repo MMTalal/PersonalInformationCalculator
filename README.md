@@ -55,4 +55,4 @@ Future enhancements to this program could include:
 If you find any issues or have suggestions for improvements, please feel free to submit a GitHub issue or a pull request. Contributions are welcome and appreciated!
 
 ## Contact
-If you have any questions or feedback, you can reach me at [http://mm.talal95-yahoo.com] or through my GitHub profile at [https://github.com/MMTalal].
+If you have any questions or feedback, you can reach me at [https://mm.talal95-yahoo.com] or through my GitHub profile at [https://github.com/MMTalal].
